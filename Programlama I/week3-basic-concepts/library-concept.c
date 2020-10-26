@@ -45,6 +45,10 @@ int main(){
     // printf("%f", float_sayi);
     // printf("%d", string);
 
+
+    char long_str[] = "birhan-karahasan";
+    printf("%s", long_str);
+
     return 0;
 
 }
