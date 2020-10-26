@@ -46,8 +46,14 @@ int main(){
     // printf("%d", string);
 
 
-    char long_str[] = "birhan-karahasan";
-    printf("%s", long_str);
+    // char long_str[] = "birhan-karahasan";
+    // printf("%s", long_str);
+    
+    // // sizeof() function
+    // int_sayi = 19992200;
+    // float_sayi = 1.2;
+    // string = 'A';
+    // printf("int_sayi variable is %d byte \nfloat_sayi variable is %d byte \nstring variable is %d byte", sizeof(int_sayi),  sizeof(float_sayi),  sizeof(string));
 
     return 0;
 
