@@ -5,7 +5,8 @@
 #include <string.h>
 #include <ctype.h>
 
-int main(){
+int main()
+{
     int int_sayi;
     float float_sayi;
     char string;
@@ -20,10 +21,10 @@ int main(){
     // int_sayi = clock();
     // printf("%d", int_sayi);
 
-    // time_t seconds; 
-    //  // Stores time seconds 
-    // time(&seconds); 
-    // printf("Seconds since January 1, 1970 = %ld\n", seconds); 
+    // time_t seconds;
+    //  // Stores time seconds
+    // time(&seconds);
+    // printf("Seconds since January 1, 1970 = %ld\n", seconds);
 
     // double base, power, result;
     // printf("Enter the base number: ");
@@ -40,15 +41,13 @@ int main(){
 
     // printf("%d",isalpha('s'));
 
-
     // printf("%d", int_sayi);
     // printf("%f", float_sayi);
     // printf("%d", string);
 
-
     // char long_str[] = "birhan-karahasan";
     // printf("%s", long_str);
-    
+
     // // sizeof() function
     // int_sayi = 19992200;
     // float_sayi = 1.2;
@@ -56,5 +55,4 @@ int main(){
     // printf("int_sayi variable is %d byte \nfloat_sayi variable is %d byte \nstring variable is %d byte", sizeof(int_sayi),  sizeof(float_sayi),  sizeof(string));
 
     return 0;
-
 }
