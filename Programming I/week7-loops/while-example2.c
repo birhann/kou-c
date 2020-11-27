@@ -16,6 +16,16 @@ int main()
                 c++;
             }
         }
+
+        /* local variable definition */
+        int x = 10;
+
+        /* do loop execution */
+        do
+        {
+            printf("value of a: %d\n", x);
+            x = x + 1;
+        } while (x < 20);
     }
     return 0;
 }
